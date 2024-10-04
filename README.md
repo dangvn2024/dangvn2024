@@ -13,6 +13,7 @@
 ***
 
 ### **Featured Projects**
+
 <a href="https://github.com/dangvn2024/Inventory_Purchasing-Operational-Dashboard">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangvn2024&repo=Inventory_Purchasing-Operational-Dashboard&theme=radical" />
