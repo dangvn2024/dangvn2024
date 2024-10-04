@@ -26,3 +26,15 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangvn2024&repo=RFM-Analysis&theme=tokyonight" />
 </a>  
+
+***
+Education & Certificates
+HTW Berlin - BA. Business Communication Management
+Related coursework: Business Administration, Marketing, Corporate Communication Management
+
+Unigap Data Analyst Bootcamp - Unigap (01.07.2024)
+
+Completed 10 Datacamp courses and finished 6 hands-on projects from beginner to advanced level (SQL, Power BI, Python); Joined problem-solving and design thinking training sessions
+
+
+[My certificates]((https://drive.google.com/drive/folders/1_g4OZe423gmbgrDWhB7kAISMmKVmaOo9?usp=drive_link))
