@@ -6,5 +6,8 @@
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
 - Tableau
 
+### **Soft Skills**
+- Design Thinking Mindset
+- Problem Solving Mindset
 ***
 
