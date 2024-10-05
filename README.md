@@ -26,6 +26,18 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangvn2024&repo=RFM-Analysis&theme=tokyonight" />
 </a>  
+<a href=["https://github.com/dangvn2024/Adventure-Works-SQL-Exploring">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangvn2024&repo=Adventure-Works-SQL-Exploring
+&theme=cobalt" />
+</a>  
+<a href=["https://github.com/dangvn2024/Python-Data_Wrangling-E_Wallet_Company">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangvn2024&repo=Python-Data_Wrangling-E_Wallet_Company&theme=onedark" />
+</a>  
+
+
+
 
 ***
 Education & Certificates
